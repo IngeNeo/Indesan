@@ -1,0 +1,3 @@
+# indesan.com.co/robots.txt
+User-agent: googlebot
+Disallow: /icons/
